@@ -1,0 +1,3 @@
+2020-05-10 23:12:13.770  INFO 847 --- [main] c.a.s.d.CalculatorApplicationTests       : Starting CalculatorApplicationTests on ineui-MacBook-Pro.local with PID 847 (started by ine in /Users/ine/dev/Spring-Boot/Chapter02/calculator-demo)
+2020-05-10 23:12:13.777  INFO 847 --- [main] c.a.s.d.CalculatorApplicationTests       : No active profile set, falling back to default profiles: default
+2020-05-10 23:12:14.688  INFO 847 --- [main] c.a.s.d.CalculatorApplicationTests       : Started CalculatorApplicationTests in 1.593 seconds (JVM running for 3.393)
